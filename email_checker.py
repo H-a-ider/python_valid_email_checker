@@ -10,4 +10,4 @@ if res:
     print("This is a valid email address")
 
 else:
-    print("Enter valid email address")
+    print("Invalid Email Address")
